@@ -1,0 +1,27 @@
+#div1 {
+    font-size: 1em;
+    background-color: lightgray;
+}
+
+#div1:hover,
+#div2:hover,
+#div3:hover {
+    font-weight: bold;
+}
+
+#div2 {
+    font-size: 1em;
+    background-color: lightyellow;
+}
+
+#div3 {
+    font-size: 1em;
+    background-color: lightblue;
+}
+button{
+	margin-top: 15px;
+	margin-left: 46%;
+}
+.jumbotron{
+	text-align: center;
+}
